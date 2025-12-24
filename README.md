@@ -16,6 +16,6 @@ This project focuses on learning slider logic, animations, and proper GitHub wor
 - JavaScript
 
 
-LIVE DEMO:-
+LIVE DEMO:- https://divek31.github.io/crazy-slider-effects/
 
 ⭐ If you like this project, feel free to star the repository!
